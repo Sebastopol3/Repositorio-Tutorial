@@ -11,3 +11,9 @@ He ido creando distintos encabezados de mayor a menor importancia
 
 
 IMAGEN AGREDADA
+
+
+```php
+function saludo() {
+echo "Bienvenido a mi vida"
+}
